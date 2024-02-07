@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
+<img src="https://github.com/kiongxiangyi/kiongxiangyi/assets/102138068/5edf9dce-fa09-48ef-836d-d7c0a0daed3f" >
 
 <!--
 **kiongxiangyi/kiongxiangyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
