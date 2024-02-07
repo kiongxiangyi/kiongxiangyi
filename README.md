@@ -27,4 +27,5 @@ Hello! My name is **Xiang Yi**. I am a career changer, transitioning from a back
 <a href="https://www.linkedin.com/in/kiongxiangyi/"><img src="https://github.com/kiongxiangyi/kiongxiangyi/assets/102138068/09ac8346-dd82-40c1-85e2-e83ee9492add" width="50" height="50" >
 <a href="https://www.instagram.com/kiongxiangyi"><img src="https://github.com/kiongxiangyi/kiongxiangyi/assets/102138068/65cd1da9-7ec4-46cb-88a2-7535b17ca8e8" width="50" height="50" >
 
-<a href="https://www.flaticon.com/free-icons/" title="icons">logo icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
