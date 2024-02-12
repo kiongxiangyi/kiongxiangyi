@@ -11,7 +11,7 @@ Hello! My name is **Xiang Yi**. I am a career changer, transitioning from a back
 
 🎓 Earned a full scholarship at 18 for a three years of diploma in digital and precision engineering in Singapore.
 
-DE Received another prestigious scholarship for a three years of degree in electrical engineering in Germany.
+🇩🇪 Received another prestigious scholarship for a three years of degree in electrical engineering in Germany.
 
 💻 Thriving today as a Full Stack Developer, integrating diverse perspectives and experiences from my international journey.
 
