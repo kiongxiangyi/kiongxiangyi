@@ -22,7 +22,7 @@ Hello! My name is **Xiang Yi**. I am a career changer, transitioning from a back
 - 💬 Ask me about the next travel destination
 - 📫 How to reach me: kiongxiangyi@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I do not look like my age, do you think I look older or younger?
+- ⚡ Fun fact: Most colleagues call me only Xiang. Actually, Xiang Yi is a word in Chinese, and it is my first name.
 
 <a href="https://www.linkedin.com/in/kiongxiangyi/"><img src="https://github.com/kiongxiangyi/kiongxiangyi/assets/102138068/09ac8346-dd82-40c1-85e2-e83ee9492add" width="50" height="50" >
 <a href="https://www.instagram.com/kiongxiangyi"><img src="https://github.com/kiongxiangyi/kiongxiangyi/assets/102138068/65cd1da9-7ec4-46cb-88a2-7535b17ca8e8" width="50" height="50" >
