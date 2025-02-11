@@ -18,7 +18,7 @@ Hello! My name is **Xiang Yi**. I am a career changer, transitioning from a back
 - 🔭 I’m currently working on several React projects
 - 🌱 I’m currently learning C# & .NET
 - 👯 I’m looking to collaborate on new businesss ideas
-- 🤔 I’m looking for help with becoming a senior developer
+- 🤔 I’m looking for mentor to become a better developer
 - 💬 Ask me about the next travel destination
 - 📫 How to reach me: kiongxiangyi@gmail.com
 - ⚡ Fun fact: As an Asian, I have traveled to more countries in Europe than in Asia. If you ask me for travel tips in Europe, I have some ideas. But when it comes to Asia, I’m not too sure...
