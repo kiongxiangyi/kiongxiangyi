@@ -16,7 +16,7 @@ Hello! My name is **Xiang Yi**. I am a career changer, transitioning from a back
 💻 Thriving today as a Full Stack Developer, integrating diverse perspectives and experiences from my international journey.
 
 - 🔭 I’m currently working on several React projects
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & .NET
 - 👯 I’m looking to collaborate on new businesss ideas
 - 🤔 I’m looking for help with becoming a senior developer
 - 💬 Ask me about the next travel destination
